@@ -1,0 +1,14 @@
+XML_OPERATION\operation\filter.class
+XML_OPERATION\operation\Main_method.class
+XML_OPERATION\operation\App.class
+XML_OPERATION\operation\Updater.class
+XML_OPERATION\operation\Search.class
+XML_OPERATION\operation\DeleteValues.class
+XML_OPERATION\operation\subElements.class
+XML_OPERATION\operation\first.class
+XML_OPERATION\operation\Inserter.class
+XML_OPERATION\operation\Remover.class
+XML_OPERATION\operation\Creater.class
+XML_OPERATION\operation\Dummy.class
+XML_OPERATION\operation\Duplicate.class
+XML_OPERATION\operation\Selector.class
